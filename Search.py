@@ -23,7 +23,7 @@ def main():
 		image1.getImage()
 		image1.convertData()
 		menu_reset()
-		
+                print "\n"		
 		
 
 if __name__ == "__main__":
